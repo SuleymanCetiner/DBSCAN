@@ -8,7 +8,7 @@ You can play around the parameters to see what happens in that situation.
 
 ![QQ](https://user-images.githubusercontent.com/38746955/138898344-9ec83e9b-d58e-43b7-a459-8e702306e1b3.PNG)
 
-An example result of algorithm 
+  Figure : An example result of algorithm 
 
 You can also handle your own files to apply this approach.
 
